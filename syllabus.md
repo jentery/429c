@@ -22,3 +22,14 @@ By the conclusion of this course, you should:
 * Conduct writing workshops with your peers by circulating drafts of your work, commenting on work by others, and revising your drafts before submitting them for assessment.  
 
 These objectives will be evaluated through three writing assignments, two writing workshops, and a final exam. 
+
+## ASSIGNED TEXTS
+*House on Mango Street* (1984), by Sandra Cisneros 
+*Beloved* (1987), by Toni Morrison 
+*Geek Love* (1989), by Katherine Dunn 
+*Lone Ranger and Tonto Fistfight in Heaven* (excerpts) (1993), by Sherman Alexie
+*Fun Home: A Family Tragicomic* (2006), by Alison Bechdel
+*Brief Wondrous Life of Oscar Wao* (2007), by Junot Díaz
+*Americanah* (2013), by Chimamanda Ngozi Adichie
+
+With the exception of *Lone Ranger and Tonto Fistfight in Heaven* (excerpts of which will be circulated during class), required texts are available at the UVic Bookstore. I will reference the Bookstore’s copies during class discussion, but feel free to choose whichever edition you prefer, in print or digital format. 
