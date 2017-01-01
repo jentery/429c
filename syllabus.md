@@ -57,6 +57,7 @@ I do not use plagiarism detection software when assessing student work, and fina
 Students who submit the following will complete the course and will be assigned a final grade: 
 * One writing assignment, and   
 * The final exam.
+
 Failure to complete these will result in an "N" regardless of the cumulative percentage on other assignments. An "N" is a failing grade, and it factors into your GPA as a 0 (the maximum percentage that can accompany an "N" on a transcript is 49).  
 
 ### Grading Rubric for All Writing Assignments  
