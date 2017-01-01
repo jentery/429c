@@ -175,19 +175,19 @@ READING BREAK
 
 Monday: "This Is What It Means to Say Phoenix, Arizona" and "The Fun House" from *Lone Ranger and Tonto Fistfight in Heaven* 
 
-Thursday:	Movie adaptation study of "This Is What It Means . . ." | *Writing Workshop: Second Writing Assignment* 
+Thursday:	Movie adaptation study of "This Is What It Means . . ." 
 
 ### Week 9 (February 27 + March 2) 
 
 Monday: *Fun Home* (Chapters 1-4) 
 
-Thursday:	*Fun Home* (finish the book) | *Due: Second Writing Assignment* 
+Thursday:	*Fun Home* (finish the book) | *Writing Workshop: Second Writing Assignment* 
 
 ### Week 10 (March 6 + 9)  
 
 Monday:	*Brief Wondrous Life of Oscar Wao* (Chapters 1-2) 
 
-Thursday: *Brief Wondrous Life of Oscar Wao* (finish Part I)
+Thursday: *Brief Wondrous Life of Oscar Wao* (finish Part I) | *Due: Second Writing Assignment*
 
 ### Week 11 (March 13 + 16)
 
