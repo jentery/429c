@@ -13,3 +13,14 @@ Syllabus online (HTML): https://github.com/jentery/429c/blob/master/syllabus.md
 ## COURSE DESCRIPTION
 This course surveys American fiction from the 1980s to the present. It is intended to give you a broad understanding of some issues and styles at play during the period, with an emphasis on prominent authors and literary texts. While the course is not structured around a particular theme or special topic, we will focus frequently on the roles of home, family, and kinship in contemporary American fiction. How is home defined or described? Where is it located? How are families produced and experienced through stories? By whom, and from which perspectives? How are kinship networks constructed, and how do people relate within them? Throughout the term, we’ll see these questions surfacing variously across texts, and we’ll discuss why they appear so important to American fiction since the 1980s.
 
+## OBJECTIVES 
+By the conclusion of this course, you should: 
+* Purposefully read and analyze contemporary American fiction (1980s to the present) by attending to the following six aspects of literature: narrative, power, language, ethics, history, and reception,  
+* Identify key passages, terms, and themes from a selection of contemporary American novels and short stories, 
+* Concisely communicate the relevance of social, cultural, and aesthetic issues common to contemporary American fiction, with an emphasis on issues of home, family, and kinship, 
+* Demonstrate an awareness of several strategies and genres writers use to interpret contemporary American fiction, including techniques invested in analysis, context, and creativity, and 
+* Conduct writing workshops with your peers by circulating drafts of you work, commenting on work by others, and revising your drafts before submitting them for assessment.  
+
+These objectives will be evaluated through three writing assignments, two writing workshops, and a final exam. 
+
+
