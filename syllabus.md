@@ -32,4 +32,4 @@ These objectives will be evaluated through three writing assignments, two writin
 * *Brief Wondrous Life of Oscar Wao* (2007), by Junot Díaz
 * *Americanah* (2013), by Chimamanda Ngozi Adichie
 
-With the exception of *Lone Ranger and Tonto Fistfight in Heaven* (excerpts of which will be circulated during class), required texts are available at the UVic Bookstore. I will reference the Bookstore’s copies during class discussion, but feel free to choose whichever edition you prefer, in print or digital format. 
+With the exception of *Lone Ranger and Tonto Fistfight in Heaven* (excerpts of which will be circulated in class), required texts are available at the UVic Bookstore. I will reference the Bookstore’s copies during class discussion, but feel free to choose whichever edition you prefer, in print or digital format. 
