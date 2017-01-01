@@ -40,7 +40,7 @@ Coming soon.
 
 ## ASSESSMENT
 The Department of English uses the following scale for grading purposes: 
-* A+: 90-100)			
+* A+: 90-100		
 * A: 85-89				
 * A-:80-84				
 * B+: 77-79			
