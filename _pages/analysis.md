@@ -54,7 +54,7 @@ Here are some questions to help you get started:
 * Which languages does the text combine or juxtapose? 
 * When is the prose also poetic? Elliptical? Specific? 
 * When does the language convey information? When is it ambiguous? 
-* Does the text create its own language? Its own words? 
+* Does the text create its own language? Its own words? If so, then why? 
 * What is the social, cultural, or political function of language in the text?
 * How does the text sound when you read it aloud? 
 * How is language embodied in the text?
