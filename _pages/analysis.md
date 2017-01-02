@@ -5,7 +5,7 @@ permalink: analysis/
 subtitle: /Analysis
 ---
 
-This writing assignment emphasizes close reading, without much (if any) need to read beyond the novel or short story at hand. For it, you have three choices: 
+This writing assignment emphasizes close reading, without much (if any) need to read beyond the novel or short story at hand. For it, you have three options. Please choose one. 
 
 1) **Narrative**: What is significant about the text’s narrative? 
 
