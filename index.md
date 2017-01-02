@@ -15,6 +15,8 @@ title: Schedule
 * *Brief Wondrous Life of Oscar Wao* (2007), by Junot Díaz
 * *Americanah* (2013), by Chimamanda Ngozi Adichie
 
+Focus for the term: home, family, and kinship in novels and short stories after 1980  
+
 ### Week 1 (January 5) 
 
 Thursday: No class (Jentery in Philadelphia for a conference)  
