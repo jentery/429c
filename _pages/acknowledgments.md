@@ -5,9 +5,4 @@ permalink: acknowledgments/
 subtitle: /Acknowledgments
 ---
 
-## Territorial Acknowledgment 
-We acknowledge and respect the Songhees, Esquimalt, and WSÁNEĆ peoples on whose traditional territories the University of Victoria stands and whose historical relationships with the land continue to this day.
-
-## Acknowledgment of Influence 
-
-I would like to thank Carolyn Allen, Kate Cummings, and Shannon Mattern, whose pedagogy and courses influenced the design and content of this seminar.  
+The Department of English respectfully acknowledges that the University of Victoria is situated on the territory of the Coast and Straits Salish peoples and sits on the site of a former Lkwungen village. We acknowledge and respect the Lekwungen-speaking peoples on whose traditional territory the university resides and the Songhees, Esquimalt, and WSÁNEĆ peoples whose historical relationship with the land continues to this day.
