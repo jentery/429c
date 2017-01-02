@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Aims
+title: Objectives
 permalink: aims/
 subtitle: /Aims
 ---
 
-Our approach to this seminar will assume no consensus about what, exactly, "media" and "materiality" are. Instead, we will start with a conversation about the relevance of the two terms today. What are their settings and politics? How are they intertwined with creative and critical practice? How do they operate in relation to other terms, such as ephemerality, pleasure, object, subject, interaction, justice, art, and agency? To what effects on our lived, social realities? Following this conversation, we will survey numerous publications (from Marx forward) to give the present some texture. Each week, we will discuss work by pairs of authors articulated around two keywords. This approach will not follow a strict chronology (e.g., reading the oldest works first); however, history will matter. We will not treat the readings as ideas somehow detached from the particulars of situation or experience. Instead, we will interpret the texts at hand with attention to the conditions in which they were written. When time permits, we may also ground our studies in examples from areas such as experimental media, art, and design (i.e., areas where approaches to media and materiality do not manifest as essays or monographs). To this end, each week of the schedule includes a case study for discussion.  
+By the conclusion of this course, you should: 
+* Purposefully read and analyze contemporary American fiction (1980s to the present) by attending to the following six dimensions of literature: narrative, power, language, ethics, history, and reception,    
+* Identify key passages, terms, and themes from a selection of contemporary American novels and short stories, 
+* Concisely communicate the relevance of social, cultural, and aesthetic issues common to contemporary American fiction, with an emphasis on issues of home, family, and kinship, 
+* Demonstrate an awareness of several strategies and genres writers use to interpret contemporary American fiction, including techniques invested in analysis, context, and creativity, and 
+* Conduct writing workshops with your peers by circulating drafts of your work, commenting on work by others, and revising your drafts before submitting them for assessment.  
 
-As we proceed, you will write seven response papers, which will comprise a portfolio that you will revise at the term's end. By that end, you should have a granular sense of how media and materiality have changed over time (especially with respect to questions of agency), and along the way you should gain experience with writing and talking about critical theory. I also hope that seminar discussions and research will translate across a spectrum of scholarly work, from writing, teaching, and archival research to policy, ethnography, and media production (depending on your own methodologies and motivations). 
-
-Extensive experience with critical theory is not required for this seminar. I encourage you to ask for context, definitions, or explanations whenever the seminar feels as if it's moving too quickly (or too slowly). Such gestures are especially important in courses, such as this one, that are anchored in interdisciplinary methods. We should be honest and open about what we don't know, and we should learn from the knowledge others bring to the seminar. We should also account for what we assume or take for granted, including our biases and privileges. If you're curious about additional material corresponding with the seminar, then feel free to contact me with requests for related reading and the like. I'm happy to chat more and point you in directions of potential interest. I'm also happy to hear recommendations, so please send them my way.  
+These objectives will be evaluated through three writing assignments, three writing workshops, and a final exam. 
