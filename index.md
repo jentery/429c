@@ -1,5 +1,6 @@
 ---
 layout: default
+title: English 429C
 ---
 # Contemporary American Fiction
 <div class="lead pretty-links">
