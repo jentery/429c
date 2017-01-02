@@ -45,6 +45,6 @@ Here are some questions to help you get started:
 * How is nature described? 
 * When you talk about settings in the text, how specific can you get? Country? City? Neighbourhood? Street? Building? Why does this specificity matter? 
 * How do questions of geography correspond with the aesthetics or politics of the text? What social or cultures issues does geography help the text address? 
-* Have you been to the places referenced in the text? To what effects on interpretation?   
+* Have you been to places referenced in the text? To what effects on interpretation?   
 
 If you choose this option, then feel free to describe one particular geographic setting in the text, with details and data drawn from a range of venues and publications. Since you're describing the setting of a text and explaining its significance, you don't need to make an academic argument. Feel free to write for a broad, non-expert audience. When you address the significance of the geographic setting, you can focus on the particulars of that setting instead of passages from your selected text. (This is not a close reading assignment.) However, your description of a geographic setting should be precise, drawing upon at least five different reliable sources.   
