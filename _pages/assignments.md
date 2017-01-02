@@ -6,22 +6,13 @@ subtitle: /Assignments
 ---
 
 ## Assessment 
-The Department of English uses the following scale for grading purposes: 
-* A+: 90-100		
-* A: 85-89				
-* A-:80-84				
-* B+: 77-79			
-* B: 73-76	
-* B-: 70-72
-* C+: 65-69
-* C: 60-64
-* D: 50-59
-* F: 0-49
+The Department of English uses the following scale for grading purposes: A+: 90-100; A: 85-89; A-:80-84; B+: 77-79; B: 73-76; B-: 70-72; C+: 65-69; C: 60-64; D: 50-59; F: 0-49
 
 I do not use plagiarism detection software when assessing student work, and final grades will be determined in accordance with the University’s official grading system.
 
 ### N Grades
 Students who submit the following will complete the course and will be assigned a final grade: 
+
 * One writing assignment, and   
 * The final exam.
 
