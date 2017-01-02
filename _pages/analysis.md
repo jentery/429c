@@ -50,7 +50,7 @@ Here are some questions to help you get started:
 
 * How would you describe the language of the text? 
 * Which metaphors and phrases are repeated throughout the text?  
-* How do characters speak to each other? To themselves? How many languages do they use? How do they translate or switch across languages? * If there’s a narrator, then how would you describe their voice? 
+* How do characters speak to each other? To themselves? How many languages do they use? How do they translate or switch across languages? * * If there’s a narrator, then how would you describe their voice? 
 * Which languages does the text combine or juxtapose? 
 * When is the prose also poetic? Elliptical? Specific? 
 * When does the language convey information? When is it ambiguous? 
