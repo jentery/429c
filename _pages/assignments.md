@@ -5,7 +5,7 @@ permalink: assignments/
 subtitle: /Assignments
 ---
 
-## ASSESSMENT
+## Assessment 
 The Department of English uses the following scale for grading purposes: 
 * A+: 90-100		
 * A: 85-89				
