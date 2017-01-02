@@ -29,7 +29,7 @@ Thursday: *House on Mango Street* (read through “Hips")
 
 Monday: *House on Mango Street* (finish the book)  
 
-Thursday: *Beloved* (Chapters 1-6)   
+Thursday: *Beloved* (Chapters 1-6); Review Prompts for Writing Assignments    
 
 ### Week 4 (January 23 + 26)
 
@@ -63,17 +63,17 @@ Thursday:	Adaptation study of "This Is What It Means..."
 
 Monday: *Fun Home* (Chapters 1-4) 
 
-Thursday:	*Fun Home* (finish the book); Writing Workshop (Second Writing Assignment)
+Thursday:	*Fun Home* (finish the book)
 
 ### Week 10 (March 6 + 9)  
 
-Monday:	*Brief Wondrous Life of Oscar Wao* (Chapters 1-2) 
+Monday:	*Brief Wondrous Life of Oscar Wao* (Chapters 1-2); Writing Workshop (Second Writing Assignment)
 
-Thursday: *Brief Wondrous Life of Oscar Wao* (finish Part I); Second Writing Assignment Due
+Thursday: *Brief Wondrous Life of Oscar Wao* (finish Part I)
 
 ### Week 11 (March 13 + 16)
 
-Monday: *Brief Wondrous Life of Oscar Wao* (finish Part II)
+Monday: *Brief Wondrous Life of Oscar Wao* (finish Part II); Second Writing Assignment Due
 
 Thursday:	*Brief Wondrous Life of Oscar Wao* (finish the book) 
 
