@@ -37,7 +37,28 @@ Here are some questions to help you get started:
 * What social positions are treated as the default or norm? 
 * Who gets to speak, to whom, and when?
 * Who is considered an expert, and under what assumptions? 
-* How do characters switch codes or morph their behaviours across situations? How do they identify? 
+* How do characters switch codes or morph their behaviours across situations? How do they identify, and when? 
 * Who is the text’s intended audience, and how does the text speak to them? To what effects on interpretation? 
 
 If you choose this option, then feel free to write about power dynamics or power structures in the text and then anchor them in a specific instance or two where the text's accounts of power influence how readers understand the ways in which social issues/relations unfold.  
+
+3) **Language**: What is significant about the use of language(s) in the text? 
+
+Write an academic argument in ~1000 words (MLA format) about the use of language(s) in an assigned text and why this use is compelling or unique. As you write, consider describing the general characteristics of the text (e.g., plot, genre, characterization, setting, and style) but also interpreting one or two key passages in detail. 
+
+Here are some questions to help you get started: 
+
+* How would you describe the language of the text? 
+* Which metaphors and phrases are repeated throughout the text?  
+* How do characters speak to each other? To themselves? How many languages do they use? How do they translate or switch across languages? * If there’s a narrator, then how would you describe their voice? 
+* Which languages does the text combine or juxtapose? 
+* When is the prose also poetic? Elliptical? Specific? 
+* When does the language convey information? When is it ambiguous? 
+* Does the text create its own language? Its own words? 
+* What is the social, cultural, or political function of language in the text?
+* How does the text sound when you read it aloud? 
+* How is language embodied in the text?
+* How does the language represent or perform history? 
+* Does the language correspond with your everyday life? What must you translate or look up? To what effects on interpretation? 
+
+If you choose this option, then feel free to write about the overall use of language(s) in the text and then anchor it in a specific instance or two where language influences how readers understand the ways in which communication unfolds.  
