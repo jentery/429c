@@ -48,3 +48,23 @@ Here are some questions to help you get started:
 * Have you been to places referenced in the text? To what effects on interpretation?   
 
 If you choose this option, then feel free to describe one particular geographic setting in the text, with details and data drawn from a range of venues and publications. Since you're describing the setting of a text and explaining its significance, you don't need to make an academic argument. Feel free to write for a broad, non-expert audience. When you address the significance of the geographic setting, you can focus on the particulars of that setting instead of passages from your selected text. (This is not a close reading assignment.) However, your description of a geographic setting should be precise, drawing upon at least five different reliable sources.   
+
+3) **A Past Event**: What is a past event mentioned in the text, and why is that event significant? 
+
+In ~750 words (MLA format), describe one past/historical event mentioned in an assigned text and explain why that event is significant. Of note, this event should be an actual event that occurred on Earth. As you write, consider the details that matter for histories of events: names, participants, dates, locations, descriptions, documentation, controversies, memories, and days of remembrance. To acquire this information, you may want to consult a variety of sources, including academic, official, and government publications as well as historical records. While you may refer to passages in your assigned text, the emphasis of this assignment should be on the particulars of an actual, historical event and its significance. 
+
+Here are some questions to help you get started: 
+
+* What are the histories and events upon which your selected text relies? 
+* To what documents or records do characters refer? 
+* What events are remembered or mentioned often in the text? 
+* How is the event coded? With what or whom is it associated? 
+* Which historical events do the characters attend or participate in? Which events do they study or research? 
+* Which events haunt the text or its characters? 
+* Which events are represented, revised, or illustrated by the text? 
+* When does the text read more like non-fiction than fiction? Which historical events are used as material for that non-fiction? 
+* Which events do we assume actually happened? Which events appear fabricated? 
+* When do you trust the text's account of history or reality? When don't you? Why? 
+* How do you draw boundaries between fiction and history? To what effects on interpretation?   
+
+If you choose this option, then feel free to describe one historical event mentioned in the text, with details and data drawn from a range of venues and publications. Since you're describing an event and explaining its significance, you don't need to make an academic argument. Feel free to write for a broad, non-expert audience. When you address the significance of the event, you can focus on the particulars of that event instead of passages from your selected text. (This is not a close reading assignment.) However, your description of an event should be precise, drawing upon at least five different reliable sources.   
