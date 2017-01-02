@@ -34,7 +34,7 @@ Here are some questions to help you get started:
 * Who has agency or mobility in the text? In what situations? In relations with whom? 
 * How do racism, patriarchy, colonialism, ableism, homophobia, xenophobia, classism, and/or sexism operate in the text? 
 * What do characters assume about each other? 
-* What social positions are treated as the default or norm? 
+* What perspectives and positions are treated as the default or norm? 
 * Who gets to speak, to whom, and when?
 * Who is considered an expert, and under what assumptions? 
 * How do characters switch codes or morph their behaviours across situations? How do they identify, and when? 
