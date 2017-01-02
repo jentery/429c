@@ -5,6 +5,15 @@ layout: default
 <div class="lead pretty-links">
 *English 429C (Spring 2017)* 
 
+### Texts 
+* *House on Mango Street* (1984), by Sandra Cisneros 
+* *Beloved* (1987), by Toni Morrison 
+* *Geek Love* (1989), by Katherine Dunn 
+* *Lone Ranger and Tonto Fistfight in Heaven* (excerpts) (1993), by Sherman Alexie
+* *Fun Home: A Family Tragicomic* (2006), by Alison Bechdel
+* *Brief Wondrous Life of Oscar Wao* (2007), by Junot Díaz
+* *Americanah* (2013), by Chimamanda Ngozi Adichie
+
 ### Week 1 (January 5) 
 
 Thursday: No class (Jentery in Philadelphia for a conference)  
