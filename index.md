@@ -25,13 +25,13 @@ Thursday: *Beloved* (Chapters 1-6)
 
 Monday: *Beloved* (Chapters 7-18)   
 
-Thursday: *Beloved* (Chapters 19-25); *Writing Workshop: First Writing Assignment*
+Thursday: *Beloved* (Chapters 19-25); Writing Workshop: First Writing Assignment
 
 ### Week 5 (January 30 + February 2)  
 
 Monday:	*Beloved* (finish the book) 
 
-Thursday:	*Geek Love* (Chapters 1-11); *Due: First Writing Assignment*  
+Thursday:	*Geek Love* (Chapters 1-11); Due: First Writing Assignment  
 
 ### Week 6 (February 6 + 9) 
 
@@ -47,19 +47,19 @@ Reading Break
 
 Monday: "This Is What It Means to Say Phoenix, Arizona" and "The Fun House" from *Lone Ranger and Tonto Fistfight in Heaven* 
 
-Thursday:	Movie adaptation study of "This Is What It Means . . ." 
+Thursday:	Adaptation study of "This Is What It Means..." 
 
 ### Week 9 (February 27 + March 2) 
 
 Monday: *Fun Home* (Chapters 1-4) 
 
-Thursday:	*Fun Home* (finish the book); *Writing Workshop: Second Writing Assignment* 
+Thursday:	*Fun Home* (finish the book); Writing Workshop: Second Writing Assignment 
 
 ### Week 10 (March 6 + 9)  
 
 Monday:	*Brief Wondrous Life of Oscar Wao* (Chapters 1-2) 
 
-Thursday: *Brief Wondrous Life of Oscar Wao* (finish Part I); *Due: Second Writing Assignment*
+Thursday: *Brief Wondrous Life of Oscar Wao* (finish Part I); Due: Second Writing Assignment
 
 ### Week 11 (March 13 + 16)
 
@@ -71,13 +71,13 @@ Thursday:	*Brief Wondrous Life of Oscar Wao* (finish the book)
 
 Monday:	*Americanah* (Chapters 1-15)  
 
-Thursday: *Americanah* (Chapters 16-25); *Writing Workshop: Third Writing Assignment* 
+Thursday: *Americanah* (Chapters 16-25); Writing Workshop: Third Writing Assignment 
 
 ### Week 13 (March 27 + 30)  
 
 Monday:	*Americanah* (Chapters 26-45)	
 
-Thursday:	*Americanah* (finish the book); *Due: Third Writing Assignment* 
+Thursday:	*Americanah* (finish the book); Due: Third Writing Assignment 
 
 ### Week 14 (April 3)
 
