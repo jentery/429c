@@ -32,7 +32,7 @@ Write an academic argument in ~1000 words (MLA format) about how power operates 
 Here are some questions to help you get started: 
 
 * Who has agency or mobility in the text? In what situations? In relations with whom? 
-* How do racism, patriarchy, colonialism, ableism, homophobia, xenophobia, classism, weightism, and/or sexism operate in the text? 
+* How do racism, patriarchy, colonialism, ableism, homophobia, xenophobia, transphobia, classism, weightism, and/or sexism operate in the text? 
 * What do characters assume about each other? 
 * What perspectives and positions are treated as the default or norm? 
 * Who gets to speak, to whom, and when?
