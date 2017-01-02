@@ -1,3 +1,10 @@
+---
+layout: page
+title: Context
+permalink: context/
+subtitle: /Context
+---
+
 This writing assignment emphasizes the contexts that influence or shape the production of contemporary fiction. It requires some reading beyond the texts at hand. For it, you have three options. Please choose one.  
 
 1) **Intended Audience and Reception**: Who is the text's intended audience, and how was the text received across venues?  
