@@ -81,15 +81,15 @@ Thursday:	*Brief Wondrous Life of Oscar Wao* (finish the book)
 
 Monday:	*Americanah* (Chapters 1-15)  
 
-Thursday: *Americanah* (Chapters 16-25); Writing Workshop (Third Writing Assignment) 
+Thursday: *Americanah* (Chapters 16-25)
 
 ### Week 13 (March 27 + 30)  
 
-Monday:	*Americanah* (Chapters 26-45)	
+Monday:	*Americanah* (Chapters 26-45); Writing Workshop (Third Writing Assignment) 
 
-Thursday:	*Americanah* (finish the book); Third Writing Assignment Due
+Thursday:	*Americanah* (finish the book)
 
 ### Week 14 (April 3)
 
-Monday: Review 
+Monday: Review; Third Writing Assignment Due
 </div>
