@@ -9,7 +9,7 @@ This writing assignment emphasizes the contexts that influence or shape the inte
 
 1) **Intended Audience and Reception**: Who is the text's intended audience, and how was the text received across venues?  
 
-In ~750 words (MLA format), assess an assigned text’s reception and also identify and describe its intended audience(s). As you write, consider the details that matter for audience and reception: date of publication, publisher, awards, and the author’s publication history. Also consider the various venues for reception: everything from the CBC and *New York Times* to Amazon and Goodreads to journal articles in the MLA International Bibliography. When identifying intended audiences, please be as specific as possible.  
+In ~750 words (MLA format), assess an assigned text’s reception and also identify and describe its intended audience(s). As you write, consider the details that matter for audience and reception: date of publication, publisher, awards, and the author’s publication history. Also consider various venues for reception: everything from the CBC and *New York Times* to Amazon and Goodreads to journal articles in the MLA International Bibliography. When identifying intended audiences, please be as specific as possible.  
 
 Here are some questions to help you get started: 
 
@@ -42,9 +42,9 @@ Here are some questions to help you get started:
 * How does the text describe its settings? From whose perspective(s)? 
 * What values does the text associate with the land? With rural areas? With urban areas? 
 * How is history tied to people and places in the text? 
-* How is nature described? 
+* How is nature described? How is culture described? Where are they located? 
 * When you talk about settings in the text, how specific can you get? Country? City? Neighbourhood? Street? Building? Why does this specificity matter? 
-* How do questions of geography correspond with the aesthetics or politics of the text? What social or cultures issues does geography help the text address? 
+* How do questions of geography correspond with the aesthetics or politics of the text? What social or cultural issues does geography address? 
 * Have you been to places referenced in the text? To what effects on interpretation?   
 
 If you choose this option, then feel free to describe one particular geographic setting in the text, with details and data drawn from a range of venues and publications. Since you're describing the setting of a text and explaining its significance, you don't need to make an academic argument. Feel free to write for a broad, non-expert audience. When you address the significance of the geographic setting, you can focus on the particulars of that setting instead of passages from your selected text. (This is not a close reading assignment.) However, your description of a geographic setting should be precise, drawing upon at least five different reliable sources.   
@@ -56,7 +56,7 @@ In ~750 words (MLA format), describe one past/historical event mentioned in an a
 Here are some questions to help you get started: 
 
 * What are the histories and events upon which your selected text relies? 
-* To what documents or records do characters refer? 
+* To which documents or records do characters refer? 
 * What events are remembered or mentioned often in the text? 
 * How is the event coded? With what or whom is it associated? 
 * Which historical events do the characters attend or participate in? Which events do they study or research? 
