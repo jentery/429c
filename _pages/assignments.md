@@ -25,6 +25,12 @@ Here are the prompts for the writing assignments:
 * [Context](https://jentery.github.io/429c/context.html) (20% of your final mark), and 
 * [Creativity](https://jentery.github.io/429c/creativity.html) (20% of your final mark).
 
+### Workshops (10% of your final mark) 
+For three different meetings during the term, I will ask you to participate in a writing workshop, for which you'll be given worksheets to complete while responding to and commenting on drafts by your peers. These worksheets will represent your participation in the workshops, will be assessed accordingly, and will together comprise 10% of your final mark. 
+
+### Final Exam (30% of your final mark) 
+At the term's end, I will administer the final exam during the official exam period. It will cover all texts assigned during the term and will consist of short-answer and multiple-choice questions as well as quote identifications. It will not include essays, and it will not be open-book.
+
 ## Assessment 
 The Department of English uses the following scale for grading purposes: A+: 90-100; A: 85-89; A-:80-84; B+: 77-79; B: 73-76; B-: 70-72; C+: 65-69; C: 60-64; D: 50-59; F: 0-49
 
