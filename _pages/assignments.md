@@ -26,7 +26,7 @@ Here are the prompts for the writing assignments:
 * [Creativity](https://jentery.github.io/429c/creativity/) (20% of your final mark).
 
 ### Workshops (10% of your final mark) 
-For three different meetings during the term, I will ask you to participate in a writing workshop, for which you'll be given worksheets to complete while responding to and commenting on drafts by your peers. These worksheets will represent your participation in the workshops, will be assessed accordingly, and will together comprise 10% of your final mark. 
+For three different meetings during the term, I will ask you to participate in a writing workshop, for which you'll be given worksheets to complete while responding to and commenting on drafts by your peers. These worksheets will represent your participation in the workshops, be assessed accordingly, and together comprise 10% of your final mark. 
 
 ### Final Exam (30% of your final mark) 
 At the term's end, I will administer the final exam during the official exam period. It will cover all texts assigned during the term and will consist of short-answer and multiple-choice questions as well as quote identifications. It will not include essays, and it will not be open-book.
@@ -54,7 +54,7 @@ Failure to complete these will result in an "N" regardless of the cumulative per
 
 (Aspects of this grading rubric were borrowed from a syllabus by Mark Sample.)
 
-### Grading Rubric for Writing Workshops
+### Grading Rubric for All Writing Workshops
 
 * A+: The circulated material and feedback exceed expectations of the prompt. They demonstrate active and thorough participation in the workshop as well as a respect for work by peers and a nuanced understanding of the revision process. Overall, the participation is exceptional at the undergraduate level.  
 * A- through A: The circulated material and feedback exceed expectations of the prompt. They demonstrate active and thorough participation in the workshop as well as a respect for work by peers. Overall, the participation is far above average at the undergraduate level.  
