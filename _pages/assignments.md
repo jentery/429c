@@ -7,17 +7,17 @@ subtitle: /Assignments
 
 I am asking you to complete three writing assignments, participate in three writing workshops, and take one comprehensive exam. Details for each are below.
 
-### Writing Assignments 
+### Writing Assignments (three, totaling 60% of your final mark)  
 For the writing assignments, you: 
 
 * Must write about at least three different texts during the course of the term,
-* Cannot write about a text more than once, 
+* Cannot write about the same text more than once, 
 * Can respond to the prompts in whatever order you prefer (e.g., Analysis then Creativity then Context, or Creativity then Context then Analysis), 
-* Must revise each piece before submitting it to me (the three writing workshops more or less require you to do this), 
-*	Must submit your responses to me in print, and  
+* Must revise each piece before submitting it to me (the three writing workshops build this revision process into the course), 
+*	Must submit your responses to me in print (thanks for your patience here), and  
 * Can respond to any prompt by focusing on any assigned text, well after we discussed the text in class or even before we’ve discussed it.  
 
-The three writing assignments are divided into three categories: [Analysis](https://jentery.github.io/429c/analysis.html), [Context](https://jentery.github.io/429c/context.html), and [Creativity](https://jentery.github.io/429c/creativity.html). For each category, you have three options to chose from. The pedagogical purpose of this approach is to encourage you to engage literature across genres and styles, without assuming that academic analysis is the only way to write about literature. 
+The three writing assignments are divided into three categories: [Analysis](https://jentery.github.io/429c/analysis.html), [Context](https://jentery.github.io/429c/context.html), and [Creativity](https://jentery.github.io/429c/creativity.html). For each category and assignment, you have three options to chose from. The pedagogical purpose of this approach is to encourage you to build on your own interests while also writing about literature across genres, strategies, and situations, without assuming that academic analysis is the only way to engage literature. 
 
 Here are the prompts for the writing assignments: 
 
