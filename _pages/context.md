@@ -5,7 +5,7 @@ permalink: context/
 subtitle: /Context
 ---
 
-This writing assignment emphasizes the contexts that influence or shape the interpretation of contemporary fiction. It requires some reading beyond the texts at hand. For it, you have three options. Please choose one.  
+This writing assignment focuses on the contexts that shape interpretation. It requires some reading beyond the texts at hand. For it, you have three options. Please choose one. 
 
 1) **Intended Audience and Reception**: Who is the text's intended audience, and how was the text received across venues?  
 
@@ -32,7 +32,7 @@ If you choose this option, then feel free to assess the overall reception of an 
 
 2) **Geographic Location**: What is the geographic setting of the text, and why is that setting significant? 
 
-In ~750 words (MLA format), describe one geographic setting of an assigned text and explain why that setting is significant. Of note, this geographic setting should be an actual place that exists or once existed on Earth. As you write, consider the details that matter for the geography of fiction: names of countries and states/provinces, demographics, capital cities, urban and rural locations, histories of place, climate, landscape, (official) language(s), native and settler groups, and population numbers. To acquire this information, you may want to consult a variety of sources, including academic, official, and government publications as well as records such as census data. While you may refer to passages in your assigned text, the emphasis of this assignment should be on the particulars of an actual, geographic setting and its significance. 
+In ~750 words (MLA format), describe one geographic setting of an assigned text and explain why that setting is significant. Of note, this geographic setting should be an actual place that exists or once existed on Earth. As you write, consider the details that matter for the geography of fiction: names of countries and states/provinces, demographics, capital cities, urban and rural locations, histories of place, climate, landscape, (official) language(s), native and settler groups, and population numbers. To acquire this information, you may want to consult a variety of sources, including academic, official, and government publications as well as records such as census data. While you may refer to passages in your assigned text, the emphasis of this assignment should be on the particulars of an actual, geographic setting and its significance for the text. 
 
 Here are some questions to help you get started: 
 
@@ -40,7 +40,7 @@ Here are some questions to help you get started:
 * Where do characters say they are from? Where are they going? Where do they feel like they belong? 
 * What language(s) do characters speak? How is langauge tied to location? 
 * How does the text describe its settings? From whose perspective(s)? 
-* What values does the text associate with the land? With rural areas? With urban areas? 
+* What values does the text associate with land? With rural areas? With urban areas? 
 * How is history tied to people and places in the text? 
 * How is nature described? How is culture described? Where are they located? 
 * When you talk about settings in the text, how specific can you get? Country? City? Neighbourhood? Street? Building? Why does this specificity matter? 
@@ -49,9 +49,9 @@ Here are some questions to help you get started:
 
 If you choose this option, then feel free to describe one particular geographic setting in the text, with details and data drawn from a range of venues and publications. Since you're describing the setting of a text and explaining its significance, you don't need to make an academic argument. Feel free to write for a broad, non-expert audience. When you address the significance of the geographic setting, you can focus on the particulars of that setting instead of passages from your selected text. (This is not a close reading assignment.) However, your description of a geographic setting should be precise, drawing upon at least five different reliable sources.   
 
-3) **A Past Event**: What is a past event mentioned in the text, and why is that event significant? 
+3) **A Past Event**: When is a historical event mentioned in the text, and why is that event significant? 
 
-In ~750 words (MLA format), describe one past/historical event mentioned in an assigned text and explain why that event is significant. Of note, this event should be an actual event that occurred on Earth. As you write, consider the details that matter for histories of events: names, participants, dates, locations, descriptions, documentation, controversies, memories, and days of remembrance. To acquire this information, you may want to consult a variety of sources, including academic, official, and government publications as well as historical records. While you may refer to passages in your assigned text, the emphasis of this assignment should be on the particulars of an actual, historical event and its significance. 
+In ~750 words (MLA format), describe one past/historical event mentioned in an assigned text and explain why that event is significant. Of note, this event should be an actual event that occurred on Earth. As you write, consider the details that matter for histories of events: names, participants, dates, locations, descriptions, documentation, controversies, memories, and days of remembrance. To acquire this information, you may want to consult a variety of sources, including academic, official, and government publications as well as historical records. While you may refer to passages in your assigned text, the emphasis of this assignment should be on the particulars of an actual, historical event and its significance for the text. 
 
 Here are some questions to help you get started: 
 
