@@ -23,7 +23,7 @@ Here are some questions to help you get started:
 * Does the narrative have a beginning, middle, and end? If so, then where are they? If not, then why? 
 * Is there resolution on the last page? To what effects on interpretation? 
 
-If you choose this option, then feel free to write about the overall form of the text as well as a specific instance or two where its narrative structure influences how the story unfolds. Since you're writing an academic argument, you should probably include a claim/thesis supported by evidence, which is interpreted from multiple perspectives.  
+If you choose this option, then feel free to write ~1000 words about the overall form of the text and to also interpret a specific passage or two where the text's narrative structure clearly influences how the story unfolds. Since you're writing an academic argument, you should probably include a claim/thesis supported by evidence, which is then interpreted from multiple perspectives.  
 
 2) **Power**: What is significant about how power operates in the text? 
 
@@ -40,7 +40,7 @@ Here are some questions to help you get started:
 * How do characters switch codes or morph their behaviours across situations? How do they identify, and when? 
 * Who is the text’s intended audience, and how does the text speak to them? To what effects on interpretation? 
 
-If you choose this option, then feel free to write about power dynamics or power structures in the text and then anchor them in a specific instance or two where the text's accounts of power influence how social issues/relations unfold. Since you're writing an academic argument, you should probably include a claim/thesis supported by evidence, which is interpreted from multiple perspectives. 
+If you choose this option, then feel free to write ~1000 words about how power operates in the text and to also interpret a specific passage or two where power clearly influences how social issues unfold in the text. Since you're writing an academic argument, you should probably include a claim/thesis supported by evidence, which is then interpreted from multiple perspectives. 
 
 3) **Language**: What is significant about the use of language(s) in the text? 
 
@@ -62,4 +62,4 @@ Here are some questions to help you get started:
 * How does the language represent or perform history? 
 * Does the language correspond with your everyday life? What must you translate or look up? To what effects on interpretation? 
 
-If you choose this option, then feel free to write about the overall use of language(s) in the text and then anchor it in a specific instance or two where language influences how communication unfolds. Since you're writing an academic argument, you should probably include a claim/thesis supported by evidence, which is interpreted from multiple perspectives.  
+If you choose this option, then feel free to write about the overall use of language(s) in the text and to also interpret a specific passage or two where language influences how communication unfolds in the text. Since you're writing an academic argument, you should probably include a claim/thesis supported by evidence, which is then interpreted from multiple perspectives. 
