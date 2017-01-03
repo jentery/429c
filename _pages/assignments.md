@@ -17,13 +17,13 @@ For the writing assignments, you:
 *	Must submit your responses to me in print, and  
 * Can respond to any prompt by focusing on any assigned text, well after we discussed the text in class or even before we’ve discussed it.  
 
-The three writing assignments are divided into three categories: [Analysis](analysis.html), [Context](context.html), and [Creativity](creativity.html). For each category, you have three options to chose from. The pedagogical purpose of this approach is to encourage you to engage literature across genres and styles, without assuming that academic analysis is the only way to write about literature. 
+The three writing assignments are divided into three categories: [Analysis](https://jentery.github.io/429c/assignments/analysis.html), [Context](https://jentery.github.io/429c/assignments/context.html), and [Creativity](https://jentery.github.io/429c/assignments/creativity.html). For each category, you have three options to chose from. The pedagogical purpose of this approach is to encourage you to engage literature across genres and styles, without assuming that academic analysis is the only way to write about literature. 
 
-You can review the prompts for the writing assignments here: 
+Here are the prompts for the writing assignments: 
 
-* [Analysis](analysis.html) (20% of your final mark), 
-* [Context](context.html) (20% of your final mark), and 
-* [Creativity](creativity.html) (20% of your final mark).
+* [Analysis](https://jentery.github.io/429c/assignments/analysis.html) (20% of your final mark), 
+* [Context](https://jentery.github.io/429c/assignments/context.html) (20% of your final mark), and 
+* [Creativity](https://jentery.github.io/429c/assignments/creativity.html) (20% of your final mark).
 
 ## Assessment 
 The Department of English uses the following scale for grading purposes: A+: 90-100; A: 85-89; A-:80-84; B+: 77-79; B: 73-76; B-: 70-72; C+: 65-69; C: 60-64; D: 50-59; F: 0-49
