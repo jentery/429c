@@ -5,7 +5,18 @@ permalink: assignments/
 subtitle: /Assignments
 ---
 
-I am asking you to complete three writing assignments, participate in three writing workshops, and take one comprehensive exam. Details for each are below. 
+I am asking you to complete three writing assignments, participate in three writing workshops, and take one comprehensive exam. Details for each are below.
+
+### Writing Assignments 
+For the writing assignments, you: 
+
+* Must write about at least three different texts during the course of the term,
+* Cannot write about a text more than once, 
+* Can respond to the prompts in whatever order you prefer (e.g., Analysis then Creativity then Context, or Creativity then Context then Analysis), 
+* Must revise each piece before submitting it to me (the three writing workshops more or less require you to do this), 
+*	Must submit your responses to me in print, and  
+* Can respond to any prompt by focusing on any assigned text, well after we discussed the text in class or even before we’ve discussed it.  
+The three writing assignments are divided into three categories: [Analysis](analysis.html), [Context](context.html), and [Creativity](creativity.html). For each category, you have three options to chose from. The pedagogical purpose of this approach is to encourage you to engage literature across genres and styles, without assuming that academic analysis is the only way to write about literature. 
 
 ## Assessment 
 The Department of English uses the following scale for grading purposes: A+: 90-100; A: 85-89; A-:80-84; B+: 77-79; B: 73-76; B-: 70-72; C+: 65-69; C: 60-64; D: 50-59; F: 0-49
