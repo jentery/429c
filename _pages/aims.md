@@ -13,4 +13,4 @@ By the conclusion of this course, you should:
 * Demonstrate an awareness of several strategies and genres that writers use to interpret contemporary American fiction, including techniques invested in analysis, context, and creativity, and 
 * Conduct writing workshops with your peers by circulating drafts of your work, commenting on work by others, and revising your drafts before submitting them for assessment.  
 
-These objectives will be evaluated through three writing assignments, three writing workshops, and a final exam. 
+These objectives will be [evaluated](https://jentery.github.io/429c/assignments/) through three writing assignments, three writing workshops, and a final exam. 
