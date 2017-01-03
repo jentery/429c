@@ -5,6 +5,8 @@ permalink: assignments/
 subtitle: /Assignments
 ---
 
+I am asking you to complete three writing assignments, participate in three writing workshops, and take one comprehensive exam. Details for each are below. 
+
 ## Assessment 
 The Department of English uses the following scale for grading purposes: A+: 90-100; A: 85-89; A-:80-84; B+: 77-79; B: 73-76; B-: 70-72; C+: 65-69; C: 60-64; D: 50-59; F: 0-49
 
