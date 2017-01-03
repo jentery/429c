@@ -17,13 +17,13 @@ For the writing assignments, you:
 *	Must submit your responses to me in print (thanks for your patience here), and  
 * Can respond to any prompt by focusing on any assigned text, well after we discussed the text in class or even before we’ve discussed it.  
 
-The three writing assignments are divided into three categories: [Analysis](https://jentery.github.io/429c/analysis.html), [Context](https://jentery.github.io/429c/context.html), and [Creativity](https://jentery.github.io/429c/creativity.html). For each category and assignment, you have three options to chose from. The pedagogical purpose of this approach is to encourage you to build on your own interests while also writing about literature across genres, strategies, and situations, without assuming that academic analysis is the only way to engage literature. 
+The three writing assignments are divided into three categories: [Analysis](https://jentery.github.io/429c/analysis/), [Context](https://jentery.github.io/429c/context/), and [Creativity](https://jentery.github.io/429c/creativity/). For each category and assignment, you have three options to chose from. The pedagogical purpose of this approach is to encourage you to build on your own interests while also writing about literature across genres, strategies, and situations, without assuming that academic analysis is the only way to engage literature. 
 
 Here are the prompts for the writing assignments: 
 
-* [Analysis](https://jentery.github.io/429c/analysis.html) (20% of your final mark), 
-* [Context](https://jentery.github.io/429c/context.html) (20% of your final mark), and 
-* [Creativity](https://jentery.github.io/429c/creativity.html) (20% of your final mark).
+* [Analysis](https://jentery.github.io/429c/analysis/) (20% of your final mark), 
+* [Context](https://jentery.github.io/429c/context/) (20% of your final mark), and 
+* [Creativity](https://jentery.github.io/429c/creativity/) (20% of your final mark).
 
 ### Workshops (10% of your final mark) 
 For three different meetings during the term, I will ask you to participate in a writing workshop, for which you'll be given worksheets to complete while responding to and commenting on drafts by your peers. These worksheets will represent your participation in the workshops, will be assessed accordingly, and will together comprise 10% of your final mark. 
