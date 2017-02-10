@@ -43,13 +43,13 @@ Thursday: *Beloved* (Chapters 19-25); Writing Workshop (First Writing Assignment
 
 Monday:	*Beloved* (finish the book) 
 
-Thursday:	*Geek Love* (Chapters 1-11); First Writing Assignment Due  
+Thursday:	*Beloved*; First Writing Assignment Due  
 
 ### Week 6 (February 6 + 9) 
 
-Monday: *Geek Love* (Chapters 12-25) 
+Monday: *Fun Home* (Chapters 1-4) 
 
-Thursday: *Geek Love* (finish the book) 
+Thursday:	*Fun Home* (finish the book)
 
 ### Week 7 (February 13 + 16)
 
@@ -57,15 +57,15 @@ Reading Break
 
 ### Week 8 (February 20 + 23)  
 
-Monday: "This Is What It Means to Say Phoenix, Arizona" and "The Fun House" from *Lone Ranger and Tonto Fistfight in Heaven* 
+Monday:	*Geek Love* (Chapters 1-11); Midterm Review 
 
-Thursday:	Adaptation study of "This Is What It Means..." 
+Thursday:	*Geek Love* (Chapters 12-25) 
 
 ### Week 9 (February 27 + March 2) 
 
-Monday: *Fun Home* (Chapters 1-4) 
+Monday: *Geek Love* (finish the book) 
 
-Thursday:	*Fun Home* (finish the book)
+Thursday: "This Is What It Means to Say Phoenix, Arizona" and "The Fun House" from *Lone Ranger and Tonto Fistfight in Heaven* 
 
 ### Week 10 (March 6 + 9)  
 
