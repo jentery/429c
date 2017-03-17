@@ -87,11 +87,16 @@ Thursday: *Americanah* (Chapters 16-25)
 
 ### Week 13 (March 27 + 30)  
 
-Monday:	*Americanah* (Chapters 26-45); Writing Workshop (Third Writing Assignment) 
+Monday:	*Americanah* (Chapters 26-45)
 
-Thursday:	*Americanah* (finish the book)
+Thursday:	*Americanah* (finish the book); Writing Workshop (Third Writing Assignment) 
 
 ### Week 14 (April 3)
 
-Monday: Review; Third Writing Assignment Due
+Monday: Review; Third Writing Assignment Due (no later than April 7) 
+
+### Exam (April 18)
+
+Tuesday: 2pm-5pm, CLE A127 
+
 </div>
